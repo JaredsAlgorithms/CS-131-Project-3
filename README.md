@@ -1,2 +1,12 @@
-# CS-131-Project-3
-CS 131 Project 3 with some improvements
+# Project 3
+## CSUF CPSC 131, Fall 2018
+
+MUST EDIT WITH YOUR OWN NAME AND EMAIL IN THE SAME FORMAT
+DELETE UNUSED EMAIL ADDRESSES
+ONLY ONE REPOSITORY SHOULD HAVE YOUR EMAIL ADDRESS (ONE REPO PER GROUP)
+
+please run "make build" to compile and run the code
+Group members:
+- Ada Lovelace adalovelace@csu.fullerton.edu
+- Charles Babbage charlesbab@csu.fullerton.edu
+- Jared Dyreson jareddyreson@csu.fullerton.edu
