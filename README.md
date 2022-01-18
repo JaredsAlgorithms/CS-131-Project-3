@@ -1,5 +1,7 @@
 # Project 3
 
+A self-balancing dequeue
+
 ## CSUF CPSC 131, Fall 2018
 
 MUST EDIT WITH YOUR OWN NAME AND EMAIL IN THE SAME FORMAT
